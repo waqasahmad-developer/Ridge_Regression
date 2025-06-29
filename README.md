@@ -1,2 +1,2 @@
 # Ridge_Regression
-This repository contains the implementation of Ridge Regression and demonstrates how the Ridge Regression helps us in reducing the loss function. 
+This project explores regression techniques including linear regression and ridge regression, applied to both single-variable and multi-variable datasets. It features implementation of gradient descent for parameter optimization. Additionally, the project includes visualizations that demonstrate the behavior of the loss function, clearly showing how it converges towards zero during training.
